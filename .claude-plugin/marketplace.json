@@ -5,9 +5,6 @@
   },
   "description": "Prompts for Claude Code by HYPA PONY: Hypa Brain (the memory that saves itself) and HYPALOOP v2 (the dual-audited work loop).",
   "version": "1.0.0",
-  "metadata": {
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "hypa",
