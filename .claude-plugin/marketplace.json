@@ -1,0 +1,20 @@
+{
+  "name": "hypapony",
+  "owner": {
+    "name": "HYPA PONY"
+  },
+  "description": "Prompts for Claude Code by HYPA PONY: Hypa Brain (the memory that saves itself) and HYPALOOP v2 (the dual-audited work loop).",
+  "version": "1.0.0",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "hypa",
+      "source": "./plugins/hypa",
+      "description": "Hypa Brain + HYPALOOP v2 as invocable skills: /hypa-brain builds the memory factory once; /hypaloop <goal> runs the loop.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
