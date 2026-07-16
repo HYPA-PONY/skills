@@ -14,5 +14,6 @@
     "autonomous",
     "loop",
     "claude-code"
-  ]
+  ],
+  "repository": "https://github.com/HYPA-PONY/skills"
 }

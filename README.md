@@ -11,7 +11,7 @@ Two prompts, installable as skills.
 ## Install
 
 ```
-/plugin marketplace add Harmon88/hypapony-skills
+/plugin marketplace add HYPA-PONY/skills
 /plugin install hypa@hypapony
 ```
 
